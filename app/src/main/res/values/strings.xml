@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Curtain</string>
+    <string name="service_label">Curtain — short-form blocker</string>
+    <string name="service_description">Watches Instagram and YouTube and draws a blackout over feeds, Reels and Shorts. It never reads your messages or sends anything off the device.</string>
+
+    <string name="notif_channel_name">Curtain status</string>
+    <string name="notif_title_active">Curtain is on</string>
+    <string name="notif_title_paused">Curtain paused</string>
+    <string name="notif_pause">Pause 15 min</string>
+    <string name="notif_resume">Resume now</string>
+
+    <string name="blocked_message">Curtain</string>
+</resources>
