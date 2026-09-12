@@ -1,5 +1,0 @@
-<resources>
-    <style name="Theme.Curtain" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">#5B6CFF</item>
-    </style>
-</resources>
